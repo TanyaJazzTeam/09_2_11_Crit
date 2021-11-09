@@ -6,13 +6,11 @@
         {
           "name": "Cinemática",
           "complexity": "promedio",
-          "interest": "great",
           "bool": "cierto"
         },
         {
           "name": "Hidrodinámica",
           "complexity": "4",
-          "interest": "3",
           "bool": "falso"
         }
       ]
@@ -26,13 +24,10 @@
       ]
     },
     {
-      "name": "Electricity",
       "sections": [
         {
           "name": "electrostática",
-          "complexity": "cuatro",
-          "interest": "five",
-          "kjckvjkc": "kkkkiii"
+          "complexity": "cuatro"
         }
       ]
     }
