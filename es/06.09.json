@@ -30,8 +30,7 @@
       "sections": [
         {
           "name": "electrostática",
-          "complexity": "cuatro",
-          "interest": "five"
+          "complexity": "cuatro"
         }
       ]
     }
