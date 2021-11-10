@@ -1,10 +1,10 @@
 #: /views/partials/case-band.j2:6 /views/partials/case-band.j2:7
 msgid "A screenshot of a website using AMP."
-msgstr ""
+msgstr "A screenshot of a website using AMP."
 
 #: /views/partials/format-visuals/websites.j2:04
 msgid "A screenshot showing amp-sidebarooool."
-msgstr ""
+msgstr "A screenshot showing amp-sidebarooool."
 
 #: /views/partials/format-visuals/websites.j2:10
 msgid "A screenshot showing amp-sidebar."
@@ -24,7 +24,7 @@ msgstr "Cachés AMP y CORS"
 
 #: /views/partials/footer.j2:71
 msgid "AMP Conf 2020"
-msgstr ""
+msgstr "AMP Conf 2020"
 
 #: /views/partials/footer.j2:72
 msgid "AMP Contributor Summit 2019"
@@ -44,7 +44,7 @@ msgstr "Especificación HTML de AMP"
 
 #: /content/amp-dev/support/faq/overview.md
 msgid "AMP Overview"
-msgstr ""
+msgstr "AMP Overview"
 
 #: /content/amp-dev/documentation/guides-and-tutorials/learn/email-spec/_blueprint.yaml
 msgid "AMP for Email Specification"
