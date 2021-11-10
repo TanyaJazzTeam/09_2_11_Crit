@@ -1,7 +1,7 @@
 ---
 ball:
 - entre
-- - - - 
+- - - - important
       - faux
       - mouvement
       - nu
@@ -13,14 +13,14 @@ ball:
       - vrai
     - gâteau
     - faux
-    - 
+    - false
     - joli
     - faux
     - vrai
     - faux
     - faux
     - rapide
-  - 
+  - false
   - lorsque
   - clous
   - Port
@@ -33,8 +33,8 @@ ball:
 - vrai
 - faux
 - siècle
-- 
+- false
 - la victoire
 - faux
 - attaque
-- 
+- ggooogg
